@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/camera-dashboard/static/css/main.3609ba1f.css",
+    "main.js": "/camera-dashboard/static/js/main.26d1a50b.js",
+    "static/js/453.c487f3d8.chunk.js": "/camera-dashboard/static/js/453.c487f3d8.chunk.js",
+    "index.html": "/camera-dashboard/index.html",
+    "main.3609ba1f.css.map": "/camera-dashboard/static/css/main.3609ba1f.css.map",
+    "main.26d1a50b.js.map": "/camera-dashboard/static/js/main.26d1a50b.js.map",
+    "453.c487f3d8.chunk.js.map": "/camera-dashboard/static/js/453.c487f3d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3609ba1f.css",
+    "static/js/main.26d1a50b.js"
+  ]
+}
