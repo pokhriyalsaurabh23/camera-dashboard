@@ -2,6 +2,7 @@
   "name": "camera-dashboard",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://pokhriyalsaurabh23.github.io/camera-dashboard",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -17,7 +18,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -37,6 +40,8 @@
       "last 1 safari version"
     ],
     "proxy": "https://api-app-staging.wobot.ai"
-
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
